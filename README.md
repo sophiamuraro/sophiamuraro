@@ -1,5 +1,5 @@
 <h1> Hi there! 👋 </h1>
-<p> 💬 You can call me Sophi! <br> 🖥️ I'm an IT Trainee, studying Systems Analysis and Development, currently working on Routine and Maintenance, my team is The Mandalorians (THIS IS THE WAY!)! <br>
+<p> 💬 You can call me Sophi! <br> 🖥️ I'm a Jr Full Stack Developer, studying Systems Analysis and Development, currently working on Routine and Maintenance, my team is The Mandalorians (THIS IS THE WAY!)! <br>
  👩‍💻 LET'S CODE! <br>
   📍 Curitiba, Brazil.
 </p>
